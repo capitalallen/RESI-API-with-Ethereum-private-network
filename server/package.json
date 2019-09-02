@@ -1,0 +1,15 @@
+{
+  "name": "truffleconnecter",
+  "version": "1.0.0",
+  "description": "connect private ethereum network and provide REST API to frontend ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
+}
